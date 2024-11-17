@@ -1,6 +1,6 @@
-# SAMEN
 
-# **Sistema de Gerenciamento de Usinas Nucleares**
+
+# **Sistema de Gerenciamento de Usinas Nucleares - SAMEN**
 
 **Descrição do Sistema**
 
@@ -47,3 +47,4 @@ Abaixo estão os exemplos de testes para cada operação CRUD, formatados em tab
 - **Swagger UI**: Interface visual para interagir com a API e testar os endpoints.
 - **HATEOAS**: Para fornecer links dinâmicos nas respostas da API, permitindo a navegação entre recursos de forma flexível.
 - **Postman**: Ferramenta para testar e validar os endpoints da API.
+
