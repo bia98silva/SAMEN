@@ -39,6 +39,28 @@ Abaixo estão os exemplos de testes para cada operação CRUD, formatados em tab
 | **Atualizar Usina Nuclear**    | `PUT`           | `http://localhost:8080/api/nuclear-plants/{id}`        | Atualiza os dados de uma usina existente.                  |
 | **Excluir Usina Nuclear**      | `DELETE`        | `http://localhost:8080/api/nuclear-plants/{id}`        | Exclui uma usina pelo ID fornecido.                        |
 
+## **Uso de Métricas no Sistema**
+
+### **Métricas Operacionais**
+
+O sistema gerencia dados operacionais das usinas nucleares registrados na entidade `Metric`. Essas métricas fornecem informações sobre o desempenho e eficiência de cada usina.  
+
+**Atributos de cada métrica:**
+- **Data da Métrica (`metricDate`)**: Data e hora do registro da métrica.
+- **Energia Fornecida (`electricityProvided`)**: Total de energia gerada pela usina (em MW).
+- **Participação Nuclear (`nuclearParticipation`)**: Porcentagem da participação da usina no fornecimento total de energia.
+- **Eficiência Operacional (`operationalEfficiency`)**: Índice que mede a eficiência da operação da usina (em %).
+
+### **Operações CRUD para Métricas**
+
+| **Operação**                  | **Método HTTP** | **URL**                                               | **Descrição**                                               |
+|-------------------------------|-----------------|-------------------------------------------------------|-------------------------------------------------------------|
+| **Listar Métricas**            | `GET`           | `http://localhost:8080/api/metrics?page=0&size=10`    | Retorna uma lista paginada de métricas cadastradas.         |
+| **Criar Métrica**              | `POST`          | `http://localhost:8080/api/metrics`                   | Adiciona uma nova métrica operacional para uma usina.       |
+| **Detalhar Métrica**           | `GET`           | `http://localhost:8080/api/metrics/{id}`              | Detalha uma métrica específica, identificada pelo ID.       |
+| **Atualizar Métrica**          | `PUT`           | `http://localhost:8080/api/metrics/{id}`              | Atualiza os dados de uma métrica existente.                 |
+| **Excluir Métrica**            | `DELETE`        | `http://localhost:8080/api/metrics/{id}`              | Exclui uma métrica pelo ID fornecido.                       |
+
 ## Tecnologias Utilizadas
 
 - **Spring Boot**: Framework Java para construção de APIs RESTful.
@@ -48,3 +70,4 @@ Abaixo estão os exemplos de testes para cada operação CRUD, formatados em tab
 - **HATEOAS**: Para fornecer links dinâmicos nas respostas da API, permitindo a navegação entre recursos de forma flexível.
 - **Postman**: Ferramenta para testar e validar os endpoints da API.
 
+Link do Pitch: https://www.youtube.com/watch?v=QuJXTu1zSBA
