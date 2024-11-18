@@ -61,6 +61,14 @@ O sistema gerencia dados operacionais das usinas nucleares registrados na entida
 | **Atualizar Métrica**          | `PUT`           | `http://localhost:8080/api/metrics/{id}`              | Atualiza os dados de uma métrica existente.                 |
 | **Excluir Métrica**            | `DELETE`        | `http://localhost:8080/api/metrics/{id}`              | Exclui uma métrica pelo ID fornecido.                       |
 
+
+## **Algumas imagens de como ficou a aplicação mobile do projetos**
+
+**Essa é a tela de login**
+
+![tela de login](https://github.com/bia98silva/SAMEN/blob/main/imagens/tela_login%20.png)
+
+
 ## Tecnologias Utilizadas
 
 - **Spring Boot**: Framework Java para construção de APIs RESTful.
