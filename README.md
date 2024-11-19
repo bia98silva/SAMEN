@@ -79,3 +79,9 @@ O sistema gerencia dados operacionais das usinas nucleares registrados na entida
 - **Postman**: Ferramenta para testar e validar os endpoints da API.
 
 Link do Pitch: https://www.youtube.com/watch?v=QuJXTu1zSBA
+Link do video da aplicação no Docker: https://www.youtube.com/watch?v=N0bCZkCKITY
+
+# **Integrantes:** 
+Beatriz silva RM: 552600 
+Pedro Henrique soares araujo RM: 553801 
+Vitor Onofre Ramos RM:553241 
