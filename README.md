@@ -68,6 +68,9 @@ O sistema gerencia dados operacionais das usinas nucleares registrados na entida
 
 ![tela de login](https://github.com/bia98silva/SAMEN/blob/main/imagens/tela_login%20.png)
 
+**Essa é a de Monitoramento**
+
+![tela de login](https://github.com/bia98silva/SAMEN/blob/main/imagens/Monitoramento.png)
 
 ## Tecnologias Utilizadas
 
@@ -79,6 +82,7 @@ O sistema gerencia dados operacionais das usinas nucleares registrados na entida
 - **Postman**: Ferramenta para testar e validar os endpoints da API.
 
 Link do Pitch: https://www.youtube.com/watch?v=QuJXTu1zSBA
+##
 Link do video da aplicação no Docker: https://www.youtube.com/watch?v=N0bCZkCKITY
 
 # **Integrantes:** 
