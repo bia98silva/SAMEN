@@ -74,19 +74,27 @@ O sistema gerencia dados operacionais das usinas nucleares registrados na entida
 
 
 **Essa é a tela de cadastro**
+
 ![tela de login](https://github.com/bia98silva/SAMEN/blob/main/imagens/cadastro.png)
 
+
 **Essa é a tela de radiação**
+
 ![tela de login](https://github.com/bia98silva/SAMEN/blob/main/imagens/radiacao.png)
 
+
 **Essa é a tela de temperatura**
+
 ![tela de login](https://github.com/bia98silva/SAMEN/blob/main/imagens/temperatura.png)
+
 
 **Essa é a tela de pressão**
 
 ![tela de login](https://github.com/bia98silva/SAMEN/blob/main/imagens/Pressao.png)
 
+
 **Essa é a tela de modificar cadastro**
+
 
 ![tela de login](https://github.com/bia98silva/SAMEN/blob/main/imagens/modificar_cadastro.png)
 
