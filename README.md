@@ -112,6 +112,7 @@ O sistema gerencia dados operacionais das usinas nucleares registrados na entida
 Link do Pitch: https://www.youtube.com/watch?v=QuJXTu1zSBA
 ##
 Link do video da aplicação no Docker: https://www.youtube.com/watch?v=N0bCZkCKITY
+Link do Video da aplicação rodando na maquina virtual : https://www.youtube.com/watch?v=PT_RLaj8CxM
 
 # **Integrantes:** 
 Beatriz silva RM: 552600 
